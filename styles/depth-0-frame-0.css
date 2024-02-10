@@ -1,0 +1,157 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 128rem;
+}.depth-0-frame-0-FX3 {
+  box-sizing: border-box;
+  padding: 5.2rem 40rem;
+  width: 100%;
+  height: 80rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #fcf9f7;
+}
+.depth-0-frame-0-FX3 .depth-3-frame-0-9MX {
+  width: 100%;
+  height: 47.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.depth-0-frame-0-FX3 .depth-3-frame-0-9MX .depth-6-frame-0-5ky {
+  margin-bottom: 3.2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #fcf9f7;
+  flex-shrink: 0;
+}
+.depth-0-frame-0-FX3 .depth-3-frame-0-9MX .depth-6-frame-0-5ky .depth-7-frame-0-qVF {
+  width: 48rem;
+  height: 21.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.2rem;
+}
+.depth-0-frame-0-FX3 .depth-3-frame-0-9MX .welcome-to-health-law-project-AXX {
+  margin-bottom: 2rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.06rem;
+  color: #1c110c;
+  font-family: Be Vietnam Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.depth-0-frame-0-FX3 .depth-3-frame-0-9MX .welcome-to-health-law-project-AX {
+  margin-bottom: 2rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.06rem;
+  color: #ed6d11;
+  font-family: Be Vietnam Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.depth-0-frame-0-FX3 .depth-3-frame-0-9MX .depth-5-frame-0-fz5 {
+  box-sizing: border-box;
+  padding: 0.95rem 21.27rem 0.95rem 21.33rem;
+  width: 100%;
+  height: 4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ed6d11;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.depth-0-frame-0-FX3 .depth-3-frame-0-9MX .depth-5-frame-0-fz5 .depth-6-frame-0-1HF {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.021rem;
+  color: #fcf9f7;
+  font-family: Be Vietnam Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ed6d11;
+}
+.depth-0-frame-0-FX3 .depth-3-frame-0-9MX .auto-group-cljr-r2y {
+  box-sizing: border-box;
+  padding: 1.6rem 1.3rem 2.4rem 1.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.depth-0-frame-0-FX3 .depth-3-frame-0-9MX .auto-group-cljr-r2y .by-signing-up-you-agree-to-our-terms-of-service-and-privacy-policy-wq7 {
+  margin-bottom: 1.6rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #996b4c;
+  font-family: Be Vietnam Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.depth-0-frame-0-FX3 .depth-3-frame-0-9MX .auto-group-cljr-r2y .already-have-an-account-ptu {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #996b4c;
+  font-family: Be Vietnam Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.depth-0-frame-0-FX3 .depth-3-frame-0-9MX .depth-5-frame-0-XoK {
+  box-sizing: border-box;
+  padding: 0.95rem 21.7992rem;
+  width: 100%;
+  height: 4rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #f2ede8;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.depth-0-frame-0-FX3 .depth-3-frame-0-9MX .depth-5-frame-0-XoK .depth-6-frame-0-sMP {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: 0.021rem;
+  color: #1c110c;
+  font-family: Be Vietnam Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f2ede8;
+}
